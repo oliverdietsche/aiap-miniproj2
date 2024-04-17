@@ -1,1 +1,1 @@
-# aiap-miniproj2
+# AI Applications - Mini Project 2
