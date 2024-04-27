@@ -1,6 +1,6 @@
-n01882714	koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus
-n01983481	American lobster, Northern lobster, Maine lobster, Homarus americanus
-n02129165	lion, king of beasts, Panthera leo
-n02132136	brown bear, bruin, Ursus arctos
+n01882714	koala
+n01983481	lobster
+n02129165	lion
+n02132136	bear
 n02410509	bison
-n02504458	African elephant, Loxodonta africana
+n02504458	elephant
