@@ -8,6 +8,9 @@
 # Run to create the conda env used for this project
 conda env create -f environment.yml
 
+# Activate conda environment
+conda activate aiap-miniproj2
+
 # Run to start jupyter notebook
 jupyter notebook
 ```
